@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "body": "牛乳を買う",
+      "done": false
+    },
+    {
+      "body": "Pythonを勉強する",
+      "done": false
+    },
+    {
+      "body": "Pythonの本を読む",
+      "done": true
+    }
+  ]
+}
